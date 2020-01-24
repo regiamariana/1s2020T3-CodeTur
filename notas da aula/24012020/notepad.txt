@@ -1,0 +1,33 @@
+MVP - Mínimo produto viável
+
+------------------------------------------------------
+
+LEVANTAMENTO DE REQUISITOS
+
+-o que o cliente quer
+-necessidades
+-refatoração
+-planejamento
+-funcionalidade
+-negócio (mvp)
+
+------------------------------------------------------
+REQUISITOS DE SOFTWARE
+Requisito Funcional - algo q o programa precisa ter, obrigatoriamente- funionalidades
+Requisito Não-funcional - segurança, funcionalidades que ultrapassam o MVP
+Regra de negócio - como seu sistema vai atuar(um padrão), restrições como usuário ADMIN, autenticação e etc
+
+-------------------------------------------------------
+
+insights - perguntas que  se faz ao cliente
+
+---------------------------------------------------------
+
+DIAGRAMA CASOS DE USO
+
+marcar consulta(isso eh uma funcionalidade) { verificar data de consulta
+                                              verificar horário disponível
+                                              informar nome e telefone
+
+----------------------------------------------------------
+
