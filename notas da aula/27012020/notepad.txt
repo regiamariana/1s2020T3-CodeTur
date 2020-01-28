@@ -1,0 +1,15 @@
+funções dos programas
+
+- Listar pacotes (web/mobile) | RF001
+- Efetuar login (web) | RF002
+- Cadastrar pacote (web) | RF003
+- Atualizar pacote (web) | RF004
+- Buscar Pacote (web/mobile) | RF005
+- Alterar status "ativo e inativo" | RF006
+- Enviar e-mail(mobile) | RF007
+- Ligar(mobile) | RF008
+- Identidade visual (logo)(web/mobile) | RNF001 usabilidade
+- Filtrar somente pacotes ativos(web/mobile) | RN001
+- Alterar oferta | RF009
+
+- Senha deve ter no mínimo 8 caracteres RNF002
