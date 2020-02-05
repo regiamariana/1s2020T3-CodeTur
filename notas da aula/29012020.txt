@@ -1,0 +1,6 @@
+pesquisar data annotations
+
+id identity
+email requerido varchar 150
+senha " (20)
+tip " (50) 

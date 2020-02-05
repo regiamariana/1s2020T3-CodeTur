@@ -1,0 +1,14 @@
+ Este artigo se concentra no uso de DataAnnotations
+ (no namespace DataAnnotations) para configurar classes
+ – realçando as configurações mais necessárias.
+ DataAnnotations também são compreendidas por um número
+ de aplicativos .NET, como o ASP.NET MVC, que permite que
+ esses aplicativos para aproveitar as mesmas anotações para 
+validações do lado do cliente.
+
+No entanto, você também pode usar as anotações para
+ fornecer mais informações para o EF sobre as classes e o
+ banco de dados ao qual eles são mapeados.
+
+
+ 
